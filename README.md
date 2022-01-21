@@ -6,8 +6,11 @@ We have 1080 training examples and 120 test examples, where each example is of s
 
 ![One-hot encoding of class labels](images/SIGNS.png)
 
-## Neural network architecture
-We used TensorFlow Keras Functional API to build a neural network model. The resulting model's `.summary()` method shows the following layers and parameters.
+## Convolutional eural network architecture
+We used TensorFlow Keras Functional API to build a neural network model depicted below. 
+![convolutional neural network architecture](images/model.png)
+
+The resulting model's `.summary()` method shows the following layers and parameters.
 ```
 Model: "functional_5"
 _________________________________________________________________
