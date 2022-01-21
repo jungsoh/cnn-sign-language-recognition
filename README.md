@@ -1,4 +1,4 @@
-# Convolutional neural network: Sign language digit recognizer
+# Convolutional neural network: Sign language recognition
 Recognizing multiple classes of objects from images is a common computer vision task. Here we have a 6-class problem where we want to recognize 6 different digits (0, 1, 2, 3, 4, 5) of [American Sign Language](https://en.wikipedia.org/wiki/American_Sign_Language) given an image of a hand. We build a convolutional neural network for this multi-class classification task using TensorFlow Keras Functional API. I did this project in the [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks) course as part of the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning).
 
 ## Datasets
